@@ -1,10 +1,23 @@
 <div align="center">
   <a href="http://pyro.ai"> <img width="220px" height="220px" src="docs/source/_static/img/pyro_logo_with_text.png"></a>
 </div>
+<<<<<<< HEAD
 
 这是一个 Pyro 教程的中文编译文件。
 
 如果教程编译进展顺利，可以制作更多的教程，理解源代码。
+=======
+-----------------------------------------
+
+
+This is my first commit
+
+[![Build Status](https://travis-ci.com/pyro-ppl/pyro.svg?branch=dev)](https://travis-ci.com/pyro-ppl/pyro)
+[![codecov.io](https://codecov.io/github/pyro-ppl/pyro/branch/dev/graph/badge.svg)](https://codecov.io/github/pyro-ppl/pyro)
+[![Latest Version](https://badge.fury.io/py/pyro-ppl.svg)](https://pypi.python.org/pypi/pyro-ppl)
+[![Documentation Status](https://readthedocs.org/projects/pyro-ppl/badge/?version=dev)](http://pyro-ppl.readthedocs.io/en/stable/?badge=dev)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3056/badge)](https://bestpractices.coreinfrastructure.org/projects/3056)
+>>>>>>> 9188dfd3e7515e3fdf6d1295eee83c206285df57
 
 -----------------------------------------
 
